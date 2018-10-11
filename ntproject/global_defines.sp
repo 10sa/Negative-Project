@@ -55,8 +55,8 @@
 #define DefaultTObject 			"C4를 설치하여 폭파하거나 모든 적을 섬멸"
 #define DefaultCTObject 		"인질을 구출하거나 모든 적을 섬멸"
 
-#define DefaultUserTeamName 	"Touhou Project"
-#define CashName				"엽전"
+#define DefaultUserTeamName 	"Negative Project"
+#define CashName				"CS"
 #define NULL_ARG				_
 
 #define REAL_TEAM_CT			2
@@ -112,7 +112,7 @@
 #define BotDataColorBlue		"iBlue"
 #define BotDataColorAlpha		"iAlpha"
 
-#define BotNameFormat			"\"Fairy %d\""
+#define BotNameFormat			"\"Zombie %d\""
 
 #define PlayerDataLevel			"iLevel"
 #define PlayerDataExp			"iExp"
